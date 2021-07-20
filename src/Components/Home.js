@@ -2,6 +2,9 @@ import React from 'react'
 function Home() {
   return (
     <div>
+      <div className="add-to-cart">
+        <img src="https://icon-library.com/images/ecommerce-icon/ecommerce-icon-28.jpg" />
+      </div>
       <h1>Home Component </h1>
       <div className="cart-wrapper">
         <div className="text-wrapper item">

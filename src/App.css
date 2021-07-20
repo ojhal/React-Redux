@@ -29,8 +29,16 @@
 }
 
 .btn-wrapper button {
-  background-color: blue;
+  background-color: red;
   border-radius: 5px;
+}
+
+.add-to-cart img {
+  width: 50px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+
 }
 
 @keyframes App-logo-spin {
